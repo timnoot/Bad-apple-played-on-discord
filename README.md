@@ -11,6 +11,7 @@ First you should start by installing all the required modules:
 - asyncio | pip install asyncio | https://pypi.org/project/asyncio/
 - discord.py | pip install discord.py | https://pypi.org/project/discord.py/ 
 - pygame | pip install pygame | https://pypi.org/project/pygame/ 
+- PyNaCl | pip install PyNaCl | https://pypi.org/project/PyNaCl/
 - a ffmpeg https://community.chocolatey.org/packages/ffmpeg to play the audio not a module
 
 | Running the code |
