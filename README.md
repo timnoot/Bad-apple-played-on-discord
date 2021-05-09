@@ -1,6 +1,5 @@
 # Bad-apple-played-in-discord
-Video: https://youtu.be/_ltXF4dCVK4
-Made by: timnoot#8017 | Inspired by: Lamp | Code: https://bit.ly/2Q6VjIW
+Video: https://youtu.be/TfS1GIr4kW4 | Made by: timnoot#8017 | Inspired by: Lamp | Code: https://bit.ly/2Q6VjIW
 
 
 # How to use?
