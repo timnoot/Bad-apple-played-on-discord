@@ -32,7 +32,7 @@ If you have any questions or you made your own version. Please let me know on di
 
 
 # Info
-This is abuse of the discord API since 15 bots were spamming messages. So I don't recommend doing this. On the other hand only 2195 messages were sent which were deleted later. So I think the impact on discord is not too bad.
+This is abuse of the discord API since 15 bots were spamming messages. So I don't recommend doing this. On the other hand only 2195 messages were sent which were deleted later. So I think the impact on discord was not too bad.
 
 Made by: timnoot#8017 | inspired by: Lamp | Code: https://bit.ly/2Q6VjIW
 
