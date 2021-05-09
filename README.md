@@ -32,7 +32,7 @@ If you have any questions or you made your own version. Please let me know on di
 
 
 # Info
-This IS api abuse, as 15 bots were used to circumvent the rate limit, so I do not recommend doing this! However, only 2,191 messages were sent totalling about 12MB, which were later deleted, so I think the impact on Discord's infrastructure was negligible, especially considering that Discord constantly processes thousands of messages per second (if not tens or hundreds of thousands). No relevant spikes were visible on the API response time graph.
+This is abuse of the discord API since 15 bots were spamming messages. So I don't recommend doing this. On the other hand only 2195 messages were sent which were deleted later. So I think the impact on discord is not too bad.
 
 Made by: timnoot#8017 | inspired by: Lamp | Code: https://bit.ly/2Q6VjIW
 
