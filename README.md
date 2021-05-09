@@ -7,7 +7,7 @@ Video: https://bit.ly/33HpWId | Made by: timnoot#8017 | Inspired by: Lamp | Code
 | Modules | 
 
 First you should start by installing all the required modules:
-- moviepy.editor | pip install moviepy | https://pypi.org/project/moviepy/
+- moviepy | pip install moviepy | https://pypi.org/project/moviepy/
 - asyncio | pip install asyncio | https://pypi.org/project/asyncio/
 - discord.py | pip install discord.py | https://pypi.org/project/discord.py/ 
 - pygame | pip install pygame | https://pypi.org/project/pygame/ 
