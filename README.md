@@ -17,7 +17,7 @@ First you should start by installing all the required modules:
 | Running the code |
 
 - Create a folder called "frames"
-- Put the mp4 and mp3 file of badapple inside of it. Leave the python files in the root.
+- Put the mp4 and mp3 file of badapple inside of it and make sure they are called "badapple.mp4" and "badapple.mp3". Leave the python files in the root.
 - Run the file "badapple video to frames.py"
 - Once done run the file "playing vid with pygame.py"
 - Once thats done get 15 Discord bot tokens and edit those in to "badapple discord.py"
