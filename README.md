@@ -1,5 +1,5 @@
 # Bad-apple-played-in-discord
-Made by: timnoot#8017 | inspired by: Lamp | Code: https://bit.ly/2Q6VjIW
+Made by: timnoot#8017 | Inspired by: Lamp | Code: https://bit.ly/2Q6VjIW
 
 
 # How to use?
