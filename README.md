@@ -25,9 +25,14 @@ First you should start by installing all the required modules:
 - Join a vc and do the command !start
 - It should start
 
+
+# Question and own versions
+If you have any questions or you made your own version. Please let me know on discord timnoot#8017.
+
+
+
+# Info
 This IS api abuse, as 15 bots were used to circumvent the rate limit, so I do not recommend doing this! However, only 2,191 messages were sent totalling about 12MB, which were later deleted, so I think the impact on Discord's infrastructure was negligible, especially considering that Discord constantly processes thousands of messages per second (if not tens or hundreds of thousands). No relevant spikes were visible on the API response time graph.
 
 Made by: timnoot#8017 | inspired by: Lamp | Code: https://bit.ly/2Q6VjIW
 
-# Question and own versions
-If you have any questions or you made your own version. Please let me know on discord timnoot#8017.
