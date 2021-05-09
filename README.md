@@ -21,7 +21,7 @@ First you should start by installing all the required modules:
 - Run the file "badapple video to frames.py"
 - Once done run the file "playing vid with pygame.py"
 - Once thats done get 15 Discord bot tokens and edit those in to "badapple discord.py"
-- Change the channel id to the one you want on line 114
+- Change the channel id to the one you want on line 112
 - Next run the file "badapple discord.py"
 - Join a vc and do the command !start
 - It should start
