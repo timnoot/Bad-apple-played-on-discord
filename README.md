@@ -13,7 +13,7 @@ First you should start by installing all the required modules:
 - pygame | pip install pygame | https://pypi.org/project/pygame/
 - a ffmpeg https://community.chocolatey.org/packages/ffmpeg to play the audio not a module
 
-| Running code |
+| Running the code |
 
 - Create a folder called "frames"
 - Put the mp4 and mp3 file of badapple inside of it. Leave the python files in the root.
