@@ -1,4 +1,4 @@
-# Bad-apple-played-in-discord
+# Bad-apple-played-on-discord
 Video: https://youtu.be/_ltXF4dCVK4 | Made by: timnoot#8017 | Inspired by: Lamp | Code: https://bit.ly/2Q6VjIW
 
 Rickroll version: https://youtu.be/c2M8RVzi71w
