@@ -12,7 +12,9 @@ First you should start by installing all the required modules:
 - discord.py | pip install discord.py | https://pypi.org/project/discord.py/ 
 - pygame | pip install pygame | https://pypi.org/project/pygame/ 
 - PyNaCl | pip install PyNaCl | https://pypi.org/project/PyNaCl/
-- a ffmpeg https://community.chocolatey.org/packages/ffmpeg to play the audio not a module
+- If you already have a ffmpeg player installed you can skip the next 2 steps.
+- install choco | https://chocolatey.org/install
+- use choco to install ffmpeg | https://community.chocolatey.org/packages/ffmpeg | Note: This is not a module.
 
 | Running the code |
 
