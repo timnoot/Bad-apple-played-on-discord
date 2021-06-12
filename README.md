@@ -31,7 +31,7 @@ First you should start by installing all the required modules:
 
 
 # Question and own versions
-If you have any questions or you made your own version. Please let me know on discord timnoot#8017.
+If you have any questions or you made your own version. Please let me know on discord timnoot#0001
 
 
 
