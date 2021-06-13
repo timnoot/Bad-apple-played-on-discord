@@ -67,7 +67,7 @@ while running:
 
             x += 10
         y += 10
-    file.write("\nMade by: timnoot#8017 | inspired by: Lamp | Code: https://bit.ly/2Q6VjIW")
+    file.write("\nMade by: timnoot#0001 | inspired by: Lamp | Code: https://bit.ly/2Q6VjIW")
     file.write("\n")
 
 
