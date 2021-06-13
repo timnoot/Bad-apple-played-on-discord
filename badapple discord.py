@@ -159,4 +159,4 @@ loop.create_task(client15.start(TOKEN15))
 
 loop.run_forever()
 
-# Made by: timnoot#8017 | inspired by: Lamp | Code: https://bit.ly/2Q6VjIW
+# Made by: timnoot#0001 | inspired by: Lamp | Code: https://bit.ly/2Q6VjIW
