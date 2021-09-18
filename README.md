@@ -1,5 +1,5 @@
 # Bad-apple-played-on-discord
-Video: https://youtu.be/_ltXF4dCVK4 | Made by: timnoot#0001 | Inspired by: Lamp | Code: https://bit.ly/2Q6VjIW
+Video: https://youtu.be/_ltXF4dCVK4 | Made by: timnoot#4372 | Inspired by: Lamp | Code: https://bit.ly/2Q6VjIW
 
 Rickroll version: https://youtu.be/c2M8RVzi71w
 
@@ -31,12 +31,12 @@ First you should start by installing all the required modules:
 
 
 # Question and own versions
-If you have any questions or you made your own version. Please let me know on discord timnoot#0001
+If you have any questions or you made your own version. Please let me know on discord timnoot#4372
 
 
 
 # Info
 This is abuse of the discord API since 15 bots were spamming messages. So I don't recommend doing this. On the other hand only 2195 messages were sent which were deleted later. So I think the impact on discord was not too bad.
 
-Video: https://youtu.be/_ltXF4dCVK4 | Made by: timnoot#0001 | Inspired by: Lamp | Code: https://bit.ly/2Q6VjIW
+Video: https://youtu.be/_ltXF4dCVK4 | Made by: timnoot#4372 | Inspired by: Lamp | Code: https://bit.ly/2Q6VjIW
 
